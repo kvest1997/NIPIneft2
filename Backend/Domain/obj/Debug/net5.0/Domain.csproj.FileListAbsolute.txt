@@ -1,0 +1,11 @@
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\bin\Debug\net5.0\Domain.dll
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\obj\Debug\net5.0\Domain.dll
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\obj\Debug\net5.0\refint\Domain.dll
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Учеба Кирилл\ТомскНИПИнефть\Exercise2_TomskNIPIneft\Domain\obj\Debug\net5.0\ref\Domain.dll
